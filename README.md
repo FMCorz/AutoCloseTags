@@ -10,6 +10,16 @@ Formats supported
 - XML
 - JSX (Babel, React)
 
+Installation
+------------
+
+With Package Control:
+
+1. Execute `Package control: Add repository` in the command palette
+2. Add `https://github.com/FMCorz/AutoCloseTags`
+3. Execute `Package control: Install package`
+4. Pick `AutoCloseTags`
+
 How to use
 ----------
 
